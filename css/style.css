@@ -1,0 +1,120 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: whitesmoke;
+}
+
+.container {
+    padding-left: 50px;
+    padding-top: 25px;
+    padding-right: 50px;
+    padding-bottom: 30px;
+}
+
+    /* side bar */
+.side-bar {
+    width: 350px;
+    margin-top: -250px;
+}
+
+.Siaga {
+    font-size: 50px;
+    padding-left: 25px;
+    padding-bottom: 30px;
+}
+
+.text-sidebar {
+    font-size: 20px;
+    padding-bottom: 30px;
+    padding-left: 25px;
+}
+
+.text-profil {
+    font-size: 20px;
+    padding-bottom: 60px;
+    padding-left: 25px;
+}
+
+.text-informasiAkun {
+    font-size: 20px;
+    padding-bottom: 35px;
+    padding-left: 20px;
+}
+
+.bantuan {
+    width: 300px;
+    height: 230px;
+    background-color: rgb(91, 194, 194);
+    border-radius: 20px;
+}
+
+.container-doc {
+    text-align: center;
+    width: 250px;
+    height: 50px;
+    background-color: white;
+    border-radius: 20px;
+    
+}
+
+.doc {
+    padding-top: 18px;
+}
+
+.container-documentation {
+    padding-left: 25px;
+    padding-top: 130px;
+}
+
+.tandaTanya {
+    position: absolute;
+    display: initial;
+    margin-left: 30px;
+    margin-top: 30px;
+    border-radius: 18px;
+    width: 50px;
+    height: 50px;
+    background-color: white;
+}
+
+.container-tandaTanya {
+    margin-top: 10px;
+    width: 30px;
+    height: 30px;
+    margin-left: 10px;
+    background-color: rgb(91, 194, 194);
+    border-radius: 100%;
+    position: inherit;
+}
+
+.ask {
+    margin-top: 5px;
+    text-align: center;
+    color: whitesmoke;
+}
+
+.need-help {
+    padding-top: 80px;
+    margin-left: 30px;
+    position: absolute;
+    color: whitesmoke;
+}
+
+.pages {
+    height: 250px;
+    margin-left: 350px;
+    border-radius: 30px;
+    background-color: rgb(91, 194, 194);
+}
+
+.text-pages {
+    padding-left: 50px;
+    padding-top: 25px;
+    color: whitesmoke;
+}
+
+.sign-out {
+    left: 1000px;
+    top: 80px;
+    position: fixed;
+    color: rgb(233, 0, 0);
+}
